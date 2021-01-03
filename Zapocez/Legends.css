@@ -1,0 +1,18 @@
+body{
+    background-color: #361999;
+    color: #05F4B7;
+    font-family: "comic sans MS", "Comic Sans", cursive;
+}
+
+body h1{
+    color: #05F4B7;
+}
+body h2{
+    color: #FF6A3D;
+}   
+
+
+header{
+    text-align: center;
+    font-size: 35px;
+}

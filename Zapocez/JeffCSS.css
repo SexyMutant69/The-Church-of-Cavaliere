@@ -1,0 +1,44 @@
+body{
+    background-color: #FF6A3D;
+    margin: 0;
+    font-family: "comic sans MS", "Comic Sans", cursive;
+}
+
+header{
+    background-color: #FF6A3D;
+    text-align: center;
+}
+
+.jeff{
+    color: green;
+    font-size: 45px;
+    font-family: "comic sans MS", "Comic Sans", cursive;
+    padding-left: 0px;
+}
+
+#jesse{
+    font-size: 30px;
+}
+
+header h3{
+    color: blueviolet;
+    font-size: 50px;
+    padding-bottom: 20px;
+
+}
+
+header img{
+    border-radius: 140px;
+    width: 400px;
+    border: 15px solid purple
+}
+
+h3:hover{
+    color:black;
+    font-size: 70px;
+}
+
+main{
+    padding-left: 10px;
+    background-color:gray;
+}
